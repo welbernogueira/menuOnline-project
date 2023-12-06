@@ -131,7 +131,7 @@ var MENU = {
         {
             "id": "double-stack-burger-kit-for-4",
             "img": "./img/cardapio/burguers/handf-double-stack-burger-kit-for-4.4ee9f54b1d6087e9996335f07c13e5cd.jpg",
-            "name": "Holeman & Finch",
+            "name": "Holeman and Finch",
             "dsc": "Double Stack Burger Kit for 4",
             "price": 79
         },
